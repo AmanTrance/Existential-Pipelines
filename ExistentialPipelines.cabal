@@ -15,7 +15,7 @@ common options
 library
     import:           options
 
-    exposed-modules:  Control.Pipeline
+    exposed-modules:  Control.Pipeline, Control.Honad
 
     build-depends:    base ^>=4.20.2.0
 
